@@ -48,13 +48,6 @@ Displays city-based sales, ratings, and user count with detailed metrics.
 - **Excel** - Data Cleaning & Preparation  
 - **DAX** - Data Modeling and Metrics
 
----
-
-## Repository
-
-Visit the GitHub Repo: [Zomato Dashboard](https://github.com/DataAnalystSachin/Zomato-dashboard)
-
----
 
 ## Author
 
