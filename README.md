@@ -1,52 +1,63 @@
 # Zomato Dashboard - Power BI Project
 
-![Dashboard Banner](./Coral Pink Illustrative Donut Zoom Virtual Background (1).png)
+![Zomato Dashboard Banner](./1st%20Index.png)
 
 ## Overview
 
-This Power BI project visualizes **Zomato's online food delivery performance** across Indian cities. The dashboard is designed to help businesses, analysts, and decision-makers gain insights into orders, revenue, user behavior, and city-level performance trends.
+This Power BI project presents a comprehensive analysis of **Zomato's food delivery performance across Indian cities**. It offers valuable insights into customer behavior, food preferences, and city-wise performance to help businesses make data-driven decisions.
 
-### Key Insights Included:
-- Total orders, users, and ratings
-- Gender-wise user gains and losses
-- Age-based user distribution
-- Food category preferences (Veg, Non-Veg, Others)
-- Sales analysis by city
-- Ratings and user count by location
-- Year-wise sales trend
+---
+
+## Key Features
+
+- **Total Orders, Users & Ratings Overview**
+- **Gain/Loss of Users by Gender**
+- **User Distribution by Age**
+- **Sales & Ratings by Food Category**
+- **Top Performing Cities**
+- **Year-wise Sales Trends**
 
 ---
 
 ## Dashboard Snapshots
 
-### 1. User Performance Overview
+### 1. User Performance
+Shows active users, gender distribution, and age-based breakdown.
+
 ![User Performance](./User%20Performance.png)
 
 ---
 
-### 2. Sales and Category Insights
+### 2. Sales Overview
+Includes total sales, quantity, food type preferences, and top city-wise sales.
+
 ![Overview](./Overview.png)
 
 ---
 
-### 3. City-wise Analysis
+### 3. City-wise Performance
+Displays city-based sales, ratings, and user count with detailed metrics.
+
 ![City Performance](./City%20Performance.png)
 
 ---
 
 ## Tools Used
-- **Power BI** for data visualization
-- **DAX** for data modeling
-- **Excel** for data cleaning and preparation
+
+- **Power BI** - Data Visualization & Report Design  
+- **Excel** - Data Cleaning & Preparation  
+- **DAX** - Data Modeling and Metrics
 
 ---
 
-## Repository Link
-[Click here to view the repo](https://github.com/DataAnalystSachin/Zomato-dashboard)
+## Repository
+
+Visit the GitHub Repo: [Zomato Dashboard](https://github.com/DataAnalystSachin/Zomato-dashboard)
 
 ---
 
 ## Author
+
 **Sachin Jangir**  
-*Data Analyst | Dashboard Designer | Power BI Enthusiast*  
-📧 sachinjangir204@gmail.com
+*Data Analyst | Power BI Developer*  
+Email: sachinjangir204@gmail.com
