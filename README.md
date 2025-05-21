@@ -1,6 +1,6 @@
 # Zomato Dashboard - Power BI Project
 
-![Zomato Dashboard Banner](./1st%20Index.png)
+![Zomato Dashboard Banner](https://github.com/DataAnalystSachin/Zomato-dashboard/blob/79d5827db76a9e85501a1f0ecd5c0c7dcfa61ff0/Index.png?raw=true)
 
 ## Overview
 
@@ -24,21 +24,21 @@ This Power BI project presents a comprehensive analysis of **Zomato's food deliv
 ### 1. User Performance
 Shows active users, gender distribution, and age-based breakdown.
 
-![User Performance](./User%20Performance.png)
+![User Performance](https://github.com/DataAnalystSachin/Zomato-dashboard/blob/main/User%20Performance.png?raw=true)
 
 ---
 
 ### 2. Sales Overview
 Includes total sales, quantity, food type preferences, and top city-wise sales.
 
-![Overview](./Overview.png)
+![Overview](https://github.com/DataAnalystSachin/Zomato-dashboard/blob/main/Overview.png?raw=true)
 
 ---
 
 ### 3. City-wise Performance
 Displays city-based sales, ratings, and user count with detailed metrics.
 
-![City Performance](./City%20Performance.png)
+![City Performance](https://github.com/DataAnalystSachin/Zomato-dashboard/blob/main/City%20Performance.png?raw=true)
 
 ---
 
